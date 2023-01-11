@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="VTV CT 4Mbps"
+udp://@225.1.2.245:30120
+#EXTINF:-1 tvg-name="VTV CT 8Mbps"
+udp://@225.1.4.108:30120
